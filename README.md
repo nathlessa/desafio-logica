@@ -1,4 +1,4 @@
-<h1 align = "center"> Classificador de Nível de Herói </h1>
+<h1 align = "center"> Classificador de Nível de Herói 🕹️ </h1>
 
 <h2>Descrição</h2>
 
